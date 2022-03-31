@@ -1,25 +1,27 @@
 #### CS 110
-# Chapter 5 - Lab - Selection
-
-### [Assignment Description](https://docs.google.com/document/d/1QfPsRfo1kZoQw4p0DhjxZskNfE0eLAV6Z6SgPSleDM4/edit?usp=sharing)
+# Midterm - Python Programming
 
 ***
 
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-Completes a dart-board simulaton to calculate pi based on Monte Carlo's method.
+What did you clean up?:
+* Collected some functions under a Dartboard class
+* Functions (methods) under the Dartboard class now uses the arguments passed to and initialized by the Dartboard class (e.g. circle radius), rather than individually hardcoded numbers
+* The Dartboard class creates its own window and turtle, which is reused for its functions
 
-## GRACE DAYS
-Grace days used for this assignment: 5
+Summary of function(s) added:
+* The setCircle() method of the Dartboard class allows the user to set another radius for the circle.
 
-Grace days remaining: 5/5
+Summary of Feature Added:
+
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
-N/A
+ < What parts of the project you were not able to complete >
 
 ## REFERENCES:
-N/A
+ < List any outside resources used >
 
 ## MISCELLANEOUS COMMENTS:
-N/A
+ < Anything you would like the grader to know >
